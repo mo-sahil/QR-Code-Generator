@@ -5,15 +5,18 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f0f0f0;
+    background-color: #b3dfc9;
 }
 
 .container {
     text-align: center;
-    background: white;
+    background: #55e3dd;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 input {
@@ -39,4 +42,6 @@ button:hover {
 
 #qrcode {
     margin-top: 20px;
+    display: flex;
+    justify-content: center;
 }

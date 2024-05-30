@@ -35,6 +35,6 @@ QR-Code-Generator/
 ├── script.js        # JavaScript file for application logic
 └── qrcode.min.js    # QRCode.js library for generating QR codes
 
-##Acknowledgements
+## Acknowledgements
 
-- [QRCode.js](https://github.com/davidshimjs/qrcodejs): A JavaScript library to generate QR codes
+- [QRCode.js](https://github.com/davidshimjs/qrcodejs) : A JavaScript library to generate QR codes
